@@ -1,0 +1,47 @@
+body {
+    justify-self: center;
+    border: 2px solid red;
+    padding: 50px;
+    border-radius: 20px;
+
+}
+
+#head {
+    justify-self: center;
+    font-size: 50px;
+}
+
+.soundeffects {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#screen {
+    justify-self: center;
+}
+
+#count {
+    width: 100px;
+    font-size: 20px;
+
+}
+
+#minute {
+    width: 100px;
+    font-size: 20px;
+
+}
+
+#second {
+    width: 100px;
+    font-size: 20px;
+
+}
+
+#start {
+    font-size: 20px;
+}
+
+#screen {
+    font-size: 50px;
+}
